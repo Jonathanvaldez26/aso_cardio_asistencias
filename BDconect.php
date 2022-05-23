@@ -7,9 +7,9 @@
 	
 // DB CREDENCIALES DE USUARIO.
 define('DB_HOST','localhost');
-define('DB_USER','astellas');
+define('DB_USER','aso_cardio');
 define('DB_PASS','/*/*ia88tl41');
-define('DB_NAME','astellas');
+define('DB_NAME','aso_cardio');
 
 // Ahora, establecemos la conexión.
 try
